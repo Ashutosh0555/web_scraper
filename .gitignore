@@ -1,0 +1,16 @@
+# Ignore virtual environments
+.venv/
+jupyter-env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore CSV output (optional — only if you don’t want to track data files)
+*.csv
+
+# Ignore OS files
+.DS_Store
